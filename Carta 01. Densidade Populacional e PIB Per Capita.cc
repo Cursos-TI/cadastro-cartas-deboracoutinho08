@@ -4,7 +4,7 @@
 int main() {
 
   // Carta 01
-    printf("Carta 01 - Super trunfo _ Calculo de Densidade e PIB per capita\n");
+    printf("Carta 01 - Super trunfo / Calculo de Densidade e PIB per capita\n");
     
     int populacao = 2343534;  // Em habitantes
     int numero = 50;
